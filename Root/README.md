@@ -1,6 +1,6 @@
-# Top File DIR
+# Main Folders
 
-
+This is the list of main Folder Shares on my NAS
 
 
 

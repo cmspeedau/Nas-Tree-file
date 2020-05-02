@@ -1,8 +1,5 @@
-# Nas-Tree-file
-The layout of my nas folder layout
+# Data
 
-So this is basic layout of what i have done on my qnap.. it mite not fit your needs fully but i thought i would share it anyway
+This folder could be named something else
 
-
-
-# Overview
+data that could be put there like Learning, Tax
