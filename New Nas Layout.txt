@@ -1,0 +1,42 @@
+Archived
+Archived/Websites
+Archived/Minecraft Worlds
+Games
+Games/Minecraft
+Games/GOG
+Games/Saved Games
+Games/Mods
+Games/Backup/Origin
+Games/Backup/Steam
+Games/Random Game iso
+Software
+Software/Microsoft
+Software/Microsoft/Operating Systems
+Software/Microsoft/Office
+Software/Microsoft/Server Operating Systems
+Software/Microsoft/Server Software
+Software/Microsoft/System Center
+Software/Microsoft/System Center/2012R2
+Software/Microsoft/System Center/2016
+Software/Microsoft/Kits
+Software/Microsoft/Update iso
+Software/Adobe
+Software/Applications
+Software/Linux Operating Systems
+Software/Drivers
+Software/VMware
+Software/MacOS
+Multimedia
+Multimedia/Youtube
+Multimedia/TV Shows
+Multimedia/Movies
+Multimedia/Music
+Multimedia/Music Videos
+Multimedia/Photo's
+Data
+Data/Learning
+Downloads
+Downloads/Games
+Downloads/Software
+Downloads/Videos
+DataHoarder
