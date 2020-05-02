@@ -1,8 +1,3 @@
-# Nas-Tree-file
-The layout of my nas folder layout
+# DataHoarder
 
-So this is basic layout of what i have done on my qnap.. it mite not fit your needs fully but i thought i would share it anyway
-
-
-
-# Overview
+For that Special kinda information that has a right to be shared. IE Covid 19, springer books
