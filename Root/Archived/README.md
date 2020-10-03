@@ -7,3 +7,4 @@ Dump folder for other items no longer used and dosen't need to be stored anywher
 |Game Backups     |For Local Game Backups                |
 |Save Game Manager| https://www.gamesave-manager.com/    |
 |                 |Because local can be better then cloud|
+|Email Archive    |https://www.mailstore.com/            |
