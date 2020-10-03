@@ -8,12 +8,13 @@ MacOS Stuff
 Downloads
 Archived/Websites
 Archived/Minecraft Worlds
+Archived/Save Game Manager
+Windows Stuff/Game Backups/Origin
+Windows Stuff/Game Backups/Steam
+Windows Stuff/Game Backups/Uplay
 Windows Stuff/GOG
 Windows Stuff/Saved Games
 Windows Stuff/Mods
-Windows Stuff/Backup/Origin
-Windows Stuff/Backup/Steam
-Windows Stuff/Backup/Uplay
 Windows Stuff/Random Game iso
 Windows Stuff/Microsoft
 Windows Stuff/Microsoft/Operating Systems
